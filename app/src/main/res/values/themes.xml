@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.OdinTools" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowSplashScreenBackground">@color/splashBg</item>
+        <item name="android:windowBackground">@color/splashBg</item>
+        <item name="android:colorAccent">#61E3DF</item>
+        <item name="android:statusBarColor">#0B1321</item>
+        <item name="android:navigationBarColor">#0B1321</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
